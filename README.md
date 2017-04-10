@@ -168,3 +168,9 @@ Date | Source | Publication
 29/12/2016 | [Top-Secret Snowden Document Reveals What the NSA Knew About Previous Russian Hacking](https://theintercept.com/2016/12/29/top-secret-snowden-document-reveals-what-the-nsa-knew-about-previous-russian-hacking/) | [The Intercept](https://theintercept.com/)
 16/11/2016 | [Titanpointe: The NSA's Spy Hub in New York, Hidden in Plain Sight (Project X)](https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/) | [The Intercept](https://theintercept.com/)
 06/09/2016 | [Inside Menwith Hill: The NSA's British Base at the Heart of U.S. Targeted Killing](https://theintercept.com/2016/09/06/nsa-menwith-hill-targeted-killing-surveillance/) | [The Intercept](https://theintercept.com/)
+
+### 2017
+
+Date | Source | Publication
+-----|--------|------------
+10/04/2017 | [Burn After Reading: Snowden Documents Reveal Scope of Secrets Exposed to China in 2001 Spy Plane Incident](https://theintercept.com/2017/04/10/snowden-documents-reveal-scope-of-secrets-exposed-to-china-in-2001-spy-plane-incident/) | [The Intercept](https://theintercept.com/)
