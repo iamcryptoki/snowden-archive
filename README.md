@@ -174,3 +174,7 @@ Date | Source | Publication
 Date | Source | Publication
 -----|--------|------------
 10/04/2017 | [Burn After Reading: Snowden Documents Reveal Scope of Secrets Exposed to China in 2001 Spy Plane Incident](https://theintercept.com/2017/04/10/snowden-documents-reveal-scope-of-secrets-exposed-to-china-in-2001-spy-plane-incident/) | [The Intercept](https://theintercept.com/)
+24/04/2017 | [Why Soviet Weather Was Secret, a Critical Gap in Korea, and Other NSA Newsletter Tales](https://theintercept.com/2017/04/24/why-soviet-weather-was-secret-a-critical-gap-in-korea-and-other-nsa-newsletter-tales/) | [The Intercept](https://theintercept.com/)
+24/04/2017 | [NSA Kept Watch Over Democratic and Republican Conventions, Snowden Documents Reveal](https://theintercept.com/2017/04/24/nsa-kept-watch-over-democratic-and-republican-conventions-snowden-documents-reveal/) | [The Intercept](https://theintercept.com/)
+24/04/2017 | [NSA Blimp Spied in the United States](https://theintercept.com/2017/04/24/nsa-blimp-spied-in-the-united-states/) | [The Intercept](https://theintercept.com/)
+24/04/2017 | [Japan Made Secret Deals With the NSA That Expanded Global Surveillance](https://theintercept.com/2017/04/24/japans-secret-deals-with-the-nsa-that-expand-global-surveillance/) | [The Intercept](https://theintercept.com/)
