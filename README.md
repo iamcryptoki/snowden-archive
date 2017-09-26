@@ -4,6 +4,10 @@ This repository is a complete collection of all documents leaked by former Natio
 
 If you notice something is missing or wrong, please file an issue, tweet at [@iamcryptoki](https://twitter.com/iamcryptoki), or send me an <a href="mailto:&#x68;&#x65;&#x6c;&#x6c;&#x6f;&#x40;&#x63;&#x72;&#x79;&#x70;&#x74;&#x6f;&#x6b;&#x69;&#x2e;&#x66;&#x72;">email</a>.
 
+## SIDtoday Files
+
+The SIDtoday folder is an updated fork of First Look Media's [sidtoday](https://github.com/firstlookmedia/sidtoday) repository.
+
 ## Timeline of Revelations (2013-2017)
 
 ### 2013
