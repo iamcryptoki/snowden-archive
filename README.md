@@ -185,3 +185,4 @@ Date | Source | Publication
 06/06/2017 | [Fifty Years Later, NSA Keeps Details of Israel's USS Liberty Attack Secret](https://theintercept.com/2017/06/06/fifty-years-later-nsa-keeps-details-of-israels-uss-liberty-attack-secret/) | [The Intercept](https://theintercept.com/)
 19/08/2017 | [The U.S. Spy Hub in the Heart of Australia](https://theintercept.com/2017/08/19/nsa-spy-hub-cia-pine-gap-australia/) | [The Intercept](https://theintercept.com/)
 20/08/2017 | [Pine Gap plays crucial role in America's wars, leaked documents reveal](http://www.abc.net.au/news/2017-08-20/leaked-documents-reveal-pine-gaps-crucial-role-in-us-drone-war/8815472) | [Australian Broadcasting Corporation](http://www.abc.net.au/news/)
+25/10/2017 | [NSA Concealed Records on JFK Assassination for Decades](https://theintercept.com/2017/10/25/jfk-assassination-files-nsa-cuba/) | [The Intercept](https://theintercept.com/)
