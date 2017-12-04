@@ -186,3 +186,4 @@ Date | Source | Publication
 19/08/2017 | [The U.S. Spy Hub in the Heart of Australia](https://theintercept.com/2017/08/19/nsa-spy-hub-cia-pine-gap-australia/) | [The Intercept](https://theintercept.com/)
 20/08/2017 | [Pine Gap plays crucial role in America's wars, leaked documents reveal](http://www.abc.net.au/news/2017-08-20/leaked-documents-reveal-pine-gaps-crucial-role-in-us-drone-war/8815472) | [Australian Broadcasting Corporation](http://www.abc.net.au/news/)
 25/10/2017 | [NSA Concealed Records on JFK Assassination for Decades](https://theintercept.com/2017/10/25/jfk-assassination-files-nsa-cuba/) | [The Intercept](https://theintercept.com/)
+30/11/2017 | [NSA Secretly Helped Convict Defendants in U.S. Courts, Classified Documents Reveal](https://theintercept.com/2017/11/30/nsa-surveillance-fisa-section-702/) | [The Intercept](https://theintercept.com/)
