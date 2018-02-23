@@ -2,7 +2,7 @@
 
 This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world.
 
-If you notice something is missing or wrong, please file an issue, tweet at [@iamcryptoki](https://twitter.com/iamcryptoki), or send me an <a href="mailto:&#x68;&#x65;&#x6c;&#x6c;&#x6f;&#x40;&#x63;&#x72;&#x79;&#x70;&#x74;&#x6f;&#x6b;&#x69;&#x2e;&#x66;&#x72;">email</a>.
+If you notice something is missing or wrong, please file an issue, tweet at [@iamcryptoki](https://twitter.com/iamcryptoki), or send me an <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#105;&#97;&#109;&#99;&#114;&#121;&#112;&#116;&#111;&#107;&#105;&#46;&#99;&#111;&#109;">email</a>.
 
 ## SIDtoday Files
 
