@@ -187,3 +187,10 @@ Date | Source | Publication
 20/08/2017 | [Pine Gap plays crucial role in America's wars, leaked documents reveal](http://www.abc.net.au/news/2017-08-20/leaked-documents-reveal-pine-gaps-crucial-role-in-us-drone-war/8815472) | [Australian Broadcasting Corporation](http://www.abc.net.au/news/)
 25/10/2017 | [NSA Concealed Records on JFK Assassination for Decades](https://theintercept.com/2017/10/25/jfk-assassination-files-nsa-cuba/) | [The Intercept](https://theintercept.com/)
 30/11/2017 | [NSA Secretly Helped Convict Defendants in U.S. Courts, Classified Documents Reveal](https://theintercept.com/2017/11/30/nsa-surveillance-fisa-section-702/) | [The Intercept](https://theintercept.com/)
+
+### 2018
+
+Date | Source | Publication
+-----|--------|------------
+01/03/2018 | [The Powerful Global Spy Alliance You Never Knew Existed](https://theintercept.com/2018/03/01/nsa-global-surveillance-sigint-seniors/) | [The Intercept](https://theintercept.com/)
+01/03/2018 | [Norway Used NSA Technology for Potentially Illegal Spying](https://theintercept.com/2018/03/01/norway-nsa-victory-garden-surveillance/) | [The Intercept](https://theintercept.com/)
