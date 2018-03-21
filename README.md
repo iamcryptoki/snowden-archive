@@ -190,3 +190,4 @@ Date | Source | Publication
 -----|--------|------------
 01/03/2018 | [The Powerful Global Spy Alliance You Never Knew Existed](https://theintercept.com/2018/03/01/nsa-global-surveillance-sigint-seniors/) | [The Intercept](https://theintercept.com/)
 01/03/2018 | [Norway Used NSA Technology for Potentially Illegal Spying](https://theintercept.com/2018/03/01/norway-nsa-victory-garden-surveillance/) | [The Intercept](https://theintercept.com/)
+20/03/2018 | [The NSA Worked to "Track Down" Bitcoin Users, Snowden Documents Reveal](https://theintercept.com/2018/03/20/the-nsa-worked-to-track-down-bitcoin-users-snowden-documents-reveal/) | [The Intercept](https://theintercept.com/)
